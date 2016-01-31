@@ -1,6 +1,6 @@
 注意以下几点
 * 1. 环境变量no_proxy的使用.
-* 2. pip环境变量的设置
+* 2. pip环境变量的设置. More in [pip User Guide](https://pip.pypa.io/en/stable/user_guide/#environment-variables)
 * 3. jdk的安装
 
 ```
